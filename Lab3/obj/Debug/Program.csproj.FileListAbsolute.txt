@@ -1,0 +1,7 @@
+C:\Users\Kirill\source\repos\FarManager\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Kirill\source\repos\FarManager\Lab3\bin\Debug\Lab3.exe
+C:\Users\Kirill\source\repos\FarManager\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Kirill\source\repos\FarManager\Lab3\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\Kirill\source\repos\FarManager\Lab3\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\FarManager\Lab3\obj\Debug\Lab3.exe
+C:\Users\Kirill\source\repos\FarManager\Lab3\obj\Debug\Lab3.pdb
